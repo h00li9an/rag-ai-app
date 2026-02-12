@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+openai
+google-genai
+pymilvus[milvus_lite]
+pypdf
+python-docx
+pandas
+numpy
+jinja2
+sentence-transformers

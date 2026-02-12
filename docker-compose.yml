@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  rag-test:
+    build: .
+    image: rag-test
+    container_name: rag-test
+    ports:
+      - "8001:8001"
